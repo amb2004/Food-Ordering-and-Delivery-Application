@@ -1,5 +1,7 @@
 Food Ordering and Delivery Application
 
+The deployed frontend code-> https://food-del-frontend-uyan.onrender.com
+
 To run the code->
 
 1. BackEnd:
